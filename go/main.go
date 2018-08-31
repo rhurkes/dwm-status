@@ -1,9 +1,3 @@
-/* A simple program to update the dwm status bar
-Requires:
-	 Material Design Icons font: https://material.io/icons/
-	 acpi to display battery details
-	 amixer to display volume details */
-
 package main
 
 import (

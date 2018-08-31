@@ -1,0 +1,11 @@
+[package]
+name = "dwm_status"
+version = "0.1.0"
+authors = ["Rob Hurkes <rhurkes@gmail.com>"]
+
+[[bin]]
+name = "main"
+path = "main.rs"
+
+[dependencies]
+chrono = "0.4.6"

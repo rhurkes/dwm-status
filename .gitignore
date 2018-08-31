@@ -1,1 +1,6 @@
-dwm-status
+# Go
+go/go
+
+# Rust
+rust/main
+target/
